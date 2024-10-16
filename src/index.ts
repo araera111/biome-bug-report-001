@@ -5,3 +5,9 @@
  * Once you have a minimal reproduction, commit it and push it to a public
  * GitHub repo.
  */
+const main = () => {
+	const val = "hello";
+	console.log("診察" + val);
+};
+
+main();
